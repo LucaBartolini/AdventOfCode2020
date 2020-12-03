@@ -1,5 +1,9 @@
+'''
+https://adventofcode.com/2020/day/3
+'''
+
 #%%
-with open('input3.txt', 'r') as f:
+with open(r'inputs\input3.txt', 'r') as f:
     x = f.readlines()
 
 x = [el.strip() for el in x]

@@ -1,5 +1,9 @@
+'''
+https://adventofcode.com/2020/day/1
+'''
+
 #%%
-with open('input1.txt', 'r') as f:
+with open(r'inputs\input1.txt', 'r') as f:
     x = f.readlines()
 
 x = [int(el) for el in x]

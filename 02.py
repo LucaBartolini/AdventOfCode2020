@@ -1,6 +1,10 @@
+'''
+https://adventofcode.com/2020/day/2
+'''
+
 #%%
 from collections import Counter
-with open('input2.txt', 'r') as f:
+with open(r'inputs\input2.txt', 'r') as f:
     x = f.readlines()
 
 
